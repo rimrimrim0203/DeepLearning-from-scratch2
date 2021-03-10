@@ -4,6 +4,7 @@
 ### 주요 내용
 - 순환신경망을 numpy로 직접 구현하고 이를 이용하여 자연어 처리
 - 구현한 신경망
+  - Word2vec
   - Simple RNN
   - LSTM
   - Seq2seq
